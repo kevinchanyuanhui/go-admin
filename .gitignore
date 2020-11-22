@@ -4,6 +4,7 @@ static/uploadfile
 main.exe
 go-admin
 temp/
+tmp/
 !temp
 vendor
 config/settings.dev.yml
@@ -17,3 +18,4 @@ config/settings.b.dev.yml
 cmd/migrate/migration/version-local/*
 !cmd/migrate/migration/version-local/doc.go
 */.DS_Store
+.DS_Store
